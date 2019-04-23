@@ -9,8 +9,32 @@
 
 
 // Var declarations are hoisted.
-// Their declarations go to the top of the program.
-// Note that this doesn't include assignment.
+// They are hoisted to the top of the function scope
+
+// A regular code block does not limit the hoisting
+// var zoo; // implicitly declared
+console.log('zoo', zoo); // zoo undefined
+
+{
+  zoo = {};
+
+  console.log('zoo', zoo);
+
+  var zoo;
+}
+
+// A function does limit the hoisting
+console.log('zoo', zoo); // ReferenceError zoo is not defined
+
+function test() {
+  zoo = {};
+
+  console.log('zoo', zoo);
+
+  var zoo;
+}
+
+// Note that hoisting does not include the doesn't include assignment.
 
 // var a;
 // var b;
