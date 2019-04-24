@@ -1,3 +1,5 @@
+// *** Question ***
+
 // What is the output of:
 let x = 'red';
 

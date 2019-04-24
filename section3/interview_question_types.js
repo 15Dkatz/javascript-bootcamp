@@ -1,3 +1,5 @@
+// *** Question ***
+
 // What do each of these lines evaluate to?
 
 typeof typeof 1
@@ -12,7 +14,7 @@ true + 1
 
 typeof []
 
-// *** Answers ***
+// *** Answer ***
 
 typeof typeof 1 // "string"
 // This is equivalent to:

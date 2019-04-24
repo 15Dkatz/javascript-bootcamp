@@ -1,3 +1,7 @@
+// *** Question ***
+
+// what is the output?
+
 var vehicle = {
   type: 'sedan',
   logInfo: function() {
@@ -10,13 +14,11 @@ var vehicle = {
       console.log('2. THIS.type', THIS.type);
     })();
   }
- }
+}
  
- vehicle.logInfo();
- 
-//  Question: what is the output?
+vehicle.logInfo();
 
-// *** ANSWER ***
+// *** Answer ***
 // 1. this.type sedan
 // 1. THIS.type sedan
 // 2. this.type undefined

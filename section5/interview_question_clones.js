@@ -28,7 +28,7 @@ console.log('assignClone', assignClone);
 console.log('spreadClone', spreadClone);
 console.log('jsonClone', jsonClone);
 
-// *** Investigation and Answer ***
+// *** Answer and Invesitgation ***
 
 import _ from 'lodash';
 
