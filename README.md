@@ -10,7 +10,7 @@
 
 ## Staring points for interview question videos
 
-####  Interview Question | The `this` keyword
+####  Interview Question | The this keyword
 [https://repl.it/@DavidJoseph3/interview-question-this-keyword](https://repl.it/@DavidJoseph3/interview-question-this-keyword)
 
 #### Interview Question | Callbacks
