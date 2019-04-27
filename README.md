@@ -1,5 +1,8 @@
 # Learn JavaScript from Scratch, Get Hired
 
+## Check out the course
+[TODO-add-course-link](TODO-add-course-link)
+
 ## Starting point for most videos
 
 #### Blank JavaScript Repl.it Template
