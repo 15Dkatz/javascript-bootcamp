@@ -13,7 +13,7 @@
 
 ***
 
-## Staring points for interview question videos
+## Starting points for interview question videos
 
 ####  Interview Question | The this keyword
 [https://repl.it/@DavidJoseph3/interview-question-this-keyword](https://repl.it/@DavidJoseph3/interview-question-this-keyword)
