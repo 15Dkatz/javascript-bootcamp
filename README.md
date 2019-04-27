@@ -1,7 +1,9 @@
 # Learn JavaScript from Scratch, Get Hired
 
 ## Check out the course
-[TODO-add-course-link](TODO-add-course-link)
+[http://udemy.com/learn-javascript-get-hired-bootcamp](http://udemy.com/learn-javascript-get-hired-bootcamp)
+
+***
 
 ## Starting point for most videos
 
