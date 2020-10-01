@@ -5,7 +5,7 @@ const timeoutId = setTimeout(
   () => console.log('bonjour'),
   2000
 );
-
+// Rajesh Has updated this code in sample branch
 // logs 'bonjour' after 2 seconds.
 
 // ***
